@@ -1,7 +1,4 @@
 .history/*
-main.pdf
-text.pdf
-outline.pdf
 *.log
 *.aux
 *.out
@@ -19,4 +16,5 @@ outline.pdf
 *.alg
 *.glg
 *.glo
-*toc
+*.toc
+*.pdf
