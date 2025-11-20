@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{时代背景}{3}{0}{1}
+\beamer@sectionintoc {2}{共同价值}{6}{0}{2}
+\beamer@sectionintoc {3}{中国担当}{11}{0}{3}
+\beamer@sectionintoc {4}{中国实践}{15}{0}{4}
+\beamer@sectionintoc {5}{全球意义}{20}{0}{5}
